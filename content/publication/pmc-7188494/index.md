@@ -1,0 +1,13 @@
+---
+title: "Clinical characteristics of patients with 2019 coronavirus disease in a non-Wuhan area of Hubei Province, China: a retrospective study"
+date: 2020-04-01
+publishDate: 2020-05-23T12:24:58.098872Z
+authors: ["Xin-Ying Zhao", "Xuan-Xuan Xu", "Hai-Sen Yin", "Qin-Ming Hu", "Tao Xiong", "Yuan-Yan Tang", "Ai-Ying Yang", "Bao-Ping Yu", "Zhi-Ping Huang"]
+publication_types: ["2"]
+abstract: "  Background Since December 2019, the 2019 coronavirus disease (COVID-19) has expanded to cause a worldwide outbreak that more than 600,000 people infected and tens of thousands died. To date, the clinical characteristics of COVID-19 patients in the non-Wuhan areas of Hubei Province in China have not been described.   Methods We retrospectively analyzed the clinical characteristics and treatment progress of 91 patients diagnosed with COVID-19 in Jingzhou Central Hospital.   Results Of the 91 patients diagnosed with COVID-19, 30 cases (33.0%) were severe and two patients (2.2%) died. The severe disease group tended to be older (50.5 vs. 42.0 years; textitp = 0.049) and have more chronic disease (40% vs. 14.8%; textitp = 0.009) relative to mild disease group. Only 73.6% of the patients were quantitative polymerase chain reaction (qPCR)-positive on their first tests, while typical chest computed tomography images were obtained for each patient. The most common complaints were cough (textitn = 75; 82.4%), fever (textitn = 59; 64.8%), fatigue (textitn = 35; 38.5%), and diarrhea (textitn = 14; 15.4%). Non-respiratory injury was identified by elevated levels of aspartate aminotransferase (textitn = 18; 19.8%), creatinine (textitn = 5; 5.5%), and creatine kinase (textitn = 14; 15.4%) in laboratory tests. Twenty-eight cases (30.8%) suffered non-respiratory injury, including 50% of the critically ill patients and 21.3% of the mild patients.   Conclusions Overall, the mortality rate of patients in Jingzhou was lower than that of Wuhan. Importantly, we found liver, kidney, digestive tract, and heart injuries in COVID-19 cases besides respiratory problems. Combining chest computed tomography images with the qPCR analysis of throat swab samples can improve the accuracy of COVID-19 diagnosis.  "
+featured: false
+publication: "*BMC Infectious Diseases*"
+url_pdf: "https://doi.org/10.1186/s12879-020-05010-w"
+doi: "10.1186/s12879-020-05010-w"
+---
+
